@@ -1,6 +1,6 @@
 {
     "name": "cordova-diagnostic-applaudplugin",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Plugin for cordova diagnostic",
     "scripts": {
         "postinstall": "node ./scripts/apply-modules.js"
