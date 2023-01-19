@@ -6,7 +6,7 @@
         "postinstall": "node ./scripts/apply-modules.js"
     },
     "cordova": {
-        "id": "cordova-diagnostic-applaudplugin",
+        "id": "cordova.plugins.diagnostic",
         "platforms": [
             "android",
             "ios",
